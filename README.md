@@ -48,6 +48,23 @@ My work involves a multidisciplinary approach, from the lab to the command line:
 
 ---
 
+### 📜 Certifications & Training
+- **Industrial Bioinformatics Internship on NGS** - Dr. Omics Lab, New Delhi ([View Certificate](https://example.com/certificates/industrial-bioinformatics-internship.pdf))
+- **Genomic Data Science** - Johns Hopkins University ([View Certificate](https://example.com/certificates/genomic-data-science.pdf))
+- **Plant Bioinformatics Methods** - University of Toronto ([View Certificate](https://example.com/certificates/plant-bioinformatics-methods.pdf))
+- **Data Analysis with R** - Duke University ([View Certificate](https://example.com/certificates/data-analysis-r.pdf))
+- **Data Visualization & Dashboarding with R** - Johns Hopkins University ([View Certificate](https://example.com/certificates/data-visualization-r.pdf))
+- **IBM Data Analytics with Excel and R** - IBM ([View Certificate](https://example.com/certificates/ibm-data-analytics.pdf))
+- **Python 3 Programming** - University of Michigan ([View Certificate](https://example.com/certificates/python-3-programming.pdf))
+- **Statistics with Python** - University of Michigan ([View Certificate](https://example.com/certificates/statistics-python.pdf))
+- **IBM Data Science** - IBM ([View Certificate](https://example.com/certificates/ibm-data-science.pdf))
+- **IBM Data Engineering** - IBM ([View Certificate](https://example.com/certificates/ibm-data-engineering.pdf))
+- **Introduction to Data Science** - IBM ([View Certificate](https://example.com/certificates/intro-data-science.pdf))
+- **Learn SQL Basics for Data Science** - University of California, Davis ([View Certificate](https://example.com/certificates/sql-basics-data-science.pdf))
+- **IBM AI Engineering** - IBM ([View Certificate](https://example.com/certificates/ibm-ai-engineering.pdf))
+
+---
+
 ### 📊 GitHub Stats & Overview
 <p align="center">
   <a href="https://github.com/WaqasYousaf10">
