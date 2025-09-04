@@ -1,10 +1,10 @@
 # WaqasYousaf.
 My professional bio and portfolio
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Waqas Yousaf 👋
 
-**Bioinformatician | Agricultural Data Scientist | Computational Biologist**
+**Plant Bioinformatician | Agricultural Data Scientist | Computational Biologist**
 
-I hold an M.Phil. in [Your Field, e.g., Bioinformatics] and am passionate about leveraging data science and computational biology to solve pressing challenges in agriculture and health. My research focuses on bridging the gap between high-throughput biological data and practical, sustainable solutions for crop resilience, biofuel production, and therapeutic discovery.
+I hold an M.Phil. in Plant stress and physiology and am passionate about leveraging data science and computational biology to solve pressing challenges in agriculture and health especially in plant stress tolerance. My research focuses on bridging the gap between high-throughput biological data and practical, sustainable solutions for crop resilience, biofuel production, and therapeutic discovery.
 
 ---
 
@@ -46,17 +46,17 @@ My work involves a multidisciplinary approach, from the lab to the command line:
 
 ### 📊 GitHub Stats & Overview
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=algolia"/>
+  <a href="https://github.com/WaqasYousaf10">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaqasYousaf10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaqasYousaf10&layout=compact&theme=algolia"/>
   </a>
 </p>
 
 ---
 
 ### 📫 Let's Connect!
-- 🔗 **LinkedIn:** [ [Your Name] ]( [Your LinkedIn Profile URL] )
-- 📧 **Email:** [Your Email Address]
-- 🧪 **ORCID iD:** [Your ORCID ID URL] (*Strongly recommended for researchers*)
-
+- 🔗 **LinkedIn:** [Waqas Yousaf](https://www.linkedin.com/in/waqas-yousaf-7b09a8256/)
+- 📧 **Email:** waqasyousaf2012@gmail.com
+- 🧪 **ORCID iD:** [0000-0002-8154-7766](https://orcid.org/0000-0002-8154-7766)
+- 🎓 **Google Scholar:** [My Profile](https://scholar.google.com/citations?user=GgBmfQMAAAAJ&hl=en)
 *Open to collaborations in bioinformatics, agri-tech, and computational biology. Always excited to discuss innovative ideas!*
