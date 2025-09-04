@@ -1,5 +1,3 @@
-# WaqasYousaf.
-My professional bio and portfolio
 # Hi there, I'm Waqas Yousaf 👋
 
 **Plant Bioinformatician | Agricultural Data Scientist | Computational Biologist**
@@ -37,10 +35,16 @@ I hold an M.Phil. in Plant stress and physiology and am passionate about leverag
 
 ### 🌱 Featured Publications
 My work involves a multidisciplinary approach, from the lab to the command line:
-1.  **Nano-Biochar for Salt Stress Mitigation:** Analyzed physiological & enzymatic data to validate a sustainable agri-solution. ([View Paper](#))
-2.  **DPP4 as a SARS-CoV-2 Receptor:** Utilized molecular docking and dynamics simulations for novel therapeutic target discovery. ([View Paper](#))
-3.  **Climate-Resilient Forest Economics:** Built economic models (NPV, BCR) to optimize tree species rotation cycles. ([View Paper](#))
-4.  **Hybrid ORF for Biofuel Production:** Designed and characterized novel genetic constructs *in silico* for enhanced lipid yield. ([View Paper](#))
+
+1.  **Supplementation of nano-biochar improved growth and physiological attributes in wheat seedlings exposed to salt stress through enhanced activity of hydrolysing and nitrogen metabolic enzymes and regulation of crucial metabolites** ([View Paper](https://www.researchgate.net/publication/381032241_Supplementation_of_nano-biochar_improved_growth_and_physiological_attributes_in_wheat_seedlings_exposed_to_salt_stress_through_enhanced_activity_of_hydrolysing_and_nitrogen_metabolic_enzymes_and_regulation_of_crucial_metabolites))
+2.  **Role of green-synthesized and characterization of calcium oxide nanoparticles for sustainable wheat growth in saline environments** ([View Paper](https://www.researchgate.net/publication/383650006_Role_of_green-synthesized_and_characterization_of_calcium_oxide_nanoparticles_for_sustainable_wheat_growth_in_saline_environments))
+3.  **Envisaging Natural Vegetation in Contrasting Environments (Piedmont and Alluvial) of Dera Ghazi Khan** ([View Paper](https://www.researchgate.net/publication/383650074_Envisaging_Natural_Vegetation_in_Contrasting_Environments_Piedmont_and_Alluvial_of_Dera_Ghazi_Khan))
+4.  **Climate-Resilient Forest Economics: Adapting Tree Species Rotation for Changing Times** ([View Paper](https://www.researchgate.net/publication/383650150_Climate-Resilient_Forest_Economics_Adapting_Tree_Species_Rotation_for_Changing_Times))
+5.  **Multifunctional Analysis and Determination of Antimicrobial Activity of Adhatoda vasica: a traditional medicinal plant** ([View Paper](https://www.researchgate.net/publication/383650230_Multifunctional_Analysis_and_Determination_of_Antimicrobial_Activity_of_Adhatoda_vasica_a_traditional_medicinal_plant))
+6.  **Bioinformatics approaches in upgrading microalgal oil for advanced biofuel production through hybrid ORF protein construction** ([View Paper](https://www.researchgate.net/publication/383650294_Bioinformatics_approaches_in_upgrading_microalgal_oil_for_advanced_biofuel_production_through_hybrid_ORF_protein_construction))
+7.  **Reviewing methods of deep learning for intelligent healthcare systems in genomics and biomedicine** ([View Paper](https://www.researchgate.net/publication/383650354_Reviewing_methods_of_deep_learning_for_intelligent_healthcare_systems_in_genomics_and_biomedicine))
+8.  **Exploration of Bioinformatics Approaches to Investigate DPP4 is a Promising Binding Receptor in SARS COV-2** ([View Paper](https://www.researchgate.net/publication/383650425_Exploration_of_Bioinformatics_Approaches_to_Investigate_DPP4_is_a_Promising_Binding_Receptor_in_SARS_COV-2))
+9.  **Comprehensive Genomic, Mutation, Phylogenetic, and Statistical Analysis of the Monkeypox Virus Across Multiple Countries** ([View Paper](https://www.researchgate.net/publication/383650492_Comprehensive_Genomic_Mutation_Phylogenetic_and_Statistical_Analysis_of_the_Monkeypox_Virus_Across_Multiple_Countries))
 
 ---
 
@@ -59,4 +63,6 @@ My work involves a multidisciplinary approach, from the lab to the command line:
 - 📧 **Email:** waqasyousaf2012@gmail.com
 - 🧪 **ORCID iD:** [0000-0002-8154-7766](https://orcid.org/0000-0002-8154-7766)
 - 🎓 **Google Scholar:** [My Profile](https://scholar.google.com/citations?user=GgBmfQMAAAAJ&hl=en)
+- 🔬 **ResearchGate:** [Waqas Yousaf](https://www.researchgate.net/profile/Waqas-Yousaf-8)
+
 *Open to collaborations in bioinformatics, agri-tech, and computational biology. Always excited to discuss innovative ideas!*
